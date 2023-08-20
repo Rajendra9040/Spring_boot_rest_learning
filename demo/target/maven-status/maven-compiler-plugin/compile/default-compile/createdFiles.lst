@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\CloudVendor.class
+com\example\demo\repository\CloudVendorRepository.class
+com\example\demo\service\CloudVendorService.class
+com\example\demo\controler\CloudVendorController.class
+com\example\demo\service\impl\CloudVendorServiceimpl.class
